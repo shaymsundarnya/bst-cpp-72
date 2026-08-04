@@ -1,2 +1,4 @@
-# bst-cpp-72
+# Bst Cpp 72
+
 Node insertion and traversal operations in C++.
+
